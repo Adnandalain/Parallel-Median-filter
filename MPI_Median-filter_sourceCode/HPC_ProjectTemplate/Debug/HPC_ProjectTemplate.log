@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\adnan\Desktop\HPC Project Final Version without the Report\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(107,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\adnan\Desktop\HPC Project Final Version without the Report\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(108,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\adnan\Desktop\HPC Project Final Version without the Report\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(127,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> C:\Users\adnan\Desktop\HPC Project Final Version without the Report\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
