@@ -3,11 +3,15 @@
 
 ![](image_samples/input/comp3.png)
 ![](image_samples/output/3outputRes0.png)
+<br/>
 ![](image_samples/input/comp1.png)
 ![](image_samples/output/1outputRes0.png)
+<br/>
 ![](image_samples/input/comp4.png)
 ![](image_samples/output/4outputRes0.png)
+<br/>
 ![](image_samples/input/comp8.png)
 ![](image_samples/output/88outputRes0.png)
+<br/>
 ![](image_samples/input/N_N_Salt_Pepper.PNG)
 ![](image_samples/output/2outputRes0.png)
