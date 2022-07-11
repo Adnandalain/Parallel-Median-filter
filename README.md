@@ -15,3 +15,5 @@
 <br/>
 ![](image_samples/input/N_N_Salt_Pepper.PNG)
 ![](image_samples/output/2outputRes0.png)
+<br/><br/>
+![](Performance%20measures.jpg)
